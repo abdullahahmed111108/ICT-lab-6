@@ -1,0 +1,2 @@
+Git is a version control system used to track changes in code.
+GitHub is an online platform where Git repositories are stored.
